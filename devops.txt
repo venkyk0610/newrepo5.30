@@ -1,0 +1,7 @@
+linix and shell
+gut and github
+ansible
+terraform
+jenkins
+kuburnetes
+
